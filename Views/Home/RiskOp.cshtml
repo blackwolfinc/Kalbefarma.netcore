@@ -1,0 +1,159 @@
+﻿
+
+
+
+@{
+    ViewData["Title"] = "RiskOP";
+    Layout = "~/Views/Shared/_MenuUtama.cshtml";
+
+}
+
+@model kalbe_farma_tampilan.ViewsModels.DocumentViewModels
+
+@using (Html.BeginForm("RiskOP", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <link rel="stylesheet" href="~/css/opRisk.css">
+    <h1>Operational Risk Form</h1>
+    <div class="card">
+
+        <div class="container">
+            <div class="btn-wraper-oprisk">
+                <button class="btn btn-danger btn-round">Back</button>
+                <button class="btn btn-warning btn-round">Export</button>
+            </div>
+        </div>
+
+
+    </div>
+
+
+    <div class="card">
+        <div class="card-header">
+            <h5>Operational Risk Register Document</h5>
+        </div>
+        <div class="card-body">
+            <div class="container">
+                <div class="btn-wraper-oprisk-form">
+                    <div class="form-row">
+                        <span>RR Doc. No.</span>
+                        <input class="form-control form-risk" type="text" name="name" value="" />
+                 
+                        <span>Main/Supportive Process</span>
+                
+                        @Html.TextBoxFor(m => m.tb_document.main_proccess, new { Id = "main_proccess", @username = "form-control" })
+                        <span>Core Process</span>
+                  
+                        @Html.TextBoxFor(m => m.tb_document.core_proccess, new { Id = "core_proccess", @username = "form-control" })
+                        <span>Process</span>
+                 
+                        @Html.TextBoxFor(m => m.tb_document.proccess, new { Id = "proccess", @username = "form-control" })
+                        <span>LOB</span>
+                       
+                        @Html.TextBoxFor(m => m.tb_document.lob, new { Id = "lob", @username = "form-control" })
+                        <button class="btn btn-success">Submit Form</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="card">
+        <div id="accordion">
+            <div class="card">
+                <div class="card-header" id="headingOne">
+                    <h4>List Process</h4>
+                    <h3 class="mb-0">
+                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            <span class="far fa-arrow-alt-circle-down"></span>
+                        </button>
+                    </h3>
+                </div>
+
+                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                    <div class="card-body">
+
+                        <div class="col-12 col-md-12 col-lg-12">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h4>Simple Table</h4>
+                                </div>
+                                <div class="card-body">
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered table-md">
+                                            <tr>
+                                                <th>No</th>
+                                                <th>Proses</th>
+                                                <th>Objective</th>
+                                                <th>Entity Reference</th>
+                                                <th>Document Reference</th>
+                                                <th>Action</th>
+                                            </tr>
+                                            @foreach (var doc in Model.DocumentList)
+                                            {
+
+
+
+
+                                                <tr>
+                                                    <td>@doc.no_doc </td>
+                                                    <td>@doc.main_proccess</td>
+                                                    <td>@doc.proccess</td>
+                                                    <td>@doc.lob</td>
+                                                    <td>@Html.ActionLink("Home", "Edit", new { id = doc.no_doc }), @Html.ActionLink("Home", "Edit", new { id = doc.no_doc })</td>
+                                                </tr>
+                                            }
+
+
+
+
+
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-header">
+            <h5>  Detail Risk Register Document</h5>
+            <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                <span class="far fa-arrow-alt-circle-down"></span>
+            </a>
+        </div>
+        <div class="card-body">
+            <div class="collapse" id="collapseExample">
+                <p>
+                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+    <link rel="stylesheet" type="text/css" href="DataTables/datatables.min.css" />
+
+}
+    <script rel="stylesheet" href="~/js/opRisk.js">
+
+        $('#myTable').DataTable({
+            ajax: '/api/staff',
+            dom: 'Bfrtip',
+            columns: [
+                { data: 'first_name' },
+                { data: 'last_name' },
+                // etc
+            ],
+            select: true,
+            buttons: [
+                { extend: 'create', editor: editor },
+                { extend: 'edit', editor: editor },
+                { extend: 'remove', editor: editor }
+            ]
+        });
+        <script type="text/javascript" src="DataTables/datatables.min.js"></script>
