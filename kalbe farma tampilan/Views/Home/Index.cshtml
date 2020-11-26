@@ -1,0 +1,70 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model kalbe_farma_tampilan.Models.tb_admin
+
+<link href="~/css/login.css" rel="stylesheet" />
+<section class="section">
+    <div class="container mt-5">
+        @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="row">
+                <div class="col-12 col-sm-8 offset-sm-2 col-md-6 offset-md-6 col-lg-8 offset-lg-3 col-xl-5  offset-lg-0 offset-xl-3 kalbe-card">
+                    
+                    <div class="card card-kalbe">
+                        <div class="card-header">
+                            <div class="login-brand">
+                                <img src="../assets/img/kalbePng.png" alt="logo"  class="img-atas ">
+                            </div>
+                        </div>
+
+                        <div class="card-body">
+                            <form method="POST" action="#" class="needs-validation" novalidate="">
+                                <div class="form-group">
+                                    <div class="d-block">
+                                        <label for="username" class="control-label"><i class="fa fa-user" aria-hidden="true"></i></label>
+
+                                    </div>
+                                    @Html.TextBoxFor(m => m.username, new {placeholder = "username", Id = "username", @username = "form-control" })
+                                    <div class="invalid-feedback">
+
+                                    </div>
+
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="d-block">
+                                        <label for="password" class="control-label">
+                                            <i class="fa fa-lock" aria-hidden="true"></i>
+                                        </label>
+
+                                    </div>
+                                    @Html.TextBoxFor(m => m.password, new { placeholder = "password" ,Id = "password", password = "form-control" })
+                                    <div class="invalid-feedback">
+                                        please fill in your password
+                                    </div>
+                                </div>
+
+
+
+                                <div class="form-group">
+                                    <button type="submit" class="btn btn-primary" id="btnPush" value="Index">LOG IN</button>
+                                </div>
+                                <hr />
+                            </form>
+
+                            <div class="simple-footer">
+                                <p> [Application Name] Version 1.0</p>
+                                <p> ©2020-PT.Kalbe Farma Tbk.</p>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                   
+                   
+                </div>
+           
+        }
+        </div>
+</section>

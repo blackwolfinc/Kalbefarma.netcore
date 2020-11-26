@@ -1,0 +1,54 @@
+﻿.img-atas {
+width:80%;
+
+}
+
+.card .card-header {
+justify-content:center; 
+
+}
+
+.kalbe-card {
+    opacity: 80%;
+    border-radius: 57px;
+    background: #ffffff;
+    box-shadow: 24px 24px 63px #174131, -24px -24px 63px #318765;
+}
+.card-kalbe {
+margin-top:40px;
+box-shadow:none;
+}
+
+.kalbe-card button, input {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 100%;
+}
+
+    .kalbe-card .form-group {
+        display:flex;
+        justify-content:center;
+
+    }
+
+#btnPush {
+    padding: 10px 5px;
+    width: 30%;
+    background-color: #24644B !important;
+}
+
+.card-body input {
+    padding:10px 10px;
+
+}
+
+.fa {
+    font-size:25px;
+    padding:5px;
+}
+
+body {
+    background: rgb(36,100,75);
+    background: linear-gradient(165deg, rgba(36,100,75,1) 0%, rgba(38,147,104,1) 100%);
+}

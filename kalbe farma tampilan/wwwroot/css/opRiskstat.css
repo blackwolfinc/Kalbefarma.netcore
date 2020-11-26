@@ -1,0 +1,135 @@
+﻿.card-header-risk {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+    padding: 0px 3.5%;
+}
+    .card-header-risk h5, .card-body-risk h5 {
+    color: #24644B;
+}
+
+.card .card-header {
+    background: rgb(24,67,50);
+    background: linear-gradient(77deg, rgba(24,67,50,1) 13%, rgba(39,134,96,1) 93%);
+    border: solid 2px #ddd5d5;
+    color: #fff;
+}
+.card-kiri-header {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-kanan-header {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.btn-wraper-oprisk 
+
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 5%;
+
+}
+
+
+.card-body-risk {
+display:flex;
+flex-direction:row;
+margin-top:3%;
+}
+
+     .card-body-risk h5 {
+        color: #24644B;
+        background-color: #eeeeeeee;
+        width: 100%;
+        margin-left: -%;
+        padding: 20px;
+        border-radius: 5px;
+        border: 2px solid;
+        text-align: center;
+    }
+
+
+.card-risk-satu, .card-risk-dua, .card-risk-tiga {
+    display: flex;
+    flex-direction: column;
+    margin:3%;
+    padding:2%;
+}
+
+.npm {
+    border-radius: 15px;
+    background: linear-gradient(145deg, #e6e6e6, #ffffff);
+    box-shadow: 8px 8px 30px #dedede, -8px -8px 30px #ffffff;
+}
+
+.npm1 {
+    border-radius: 15px;
+    background: linear-gradient(145deg, #e6e6e6, #ffffff);
+    padding: 20px;
+    margin: 20px;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    align-items:center;
+    text-align:center;
+}
+
+.card .card-header h4, .card .card-header h3 {
+    color: #ffffff;
+}
+
+
+#headingOne {
+    background-color: #24644B;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+
+.Card-list-Prosess {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    background:none;
+}
+
+    .Card-list-Prosess h5 {
+        color: #24644B;
+    }
+
+    .card-list-head {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: rgb(62,156,120);
+        background: linear-gradient(77deg, rgba(62,156,120,1) 13%, rgba(39,134,96,1) 93%);
+        color: #fff;
+        border-radius: 50%;
+        min-height: 7rem;
+        width: 7rem;
+        margin-top: 3rem;
+        margin-bottom: 0.5rem;
+    }
+
+.card-list-body-dalam {
+margin-top:20px;
+}
+
+.list-proses-back {
+    background: rgb(29,75,58);
+    background: linear-gradient(167deg, rgba(29,75,58,1) 13%, rgba(39,134,96,1) 38%, rgba(200,222,44,1) 81%);
+}
+
+.card .Card-list-Prosess {
+
+background-color:none !important;}
+
+
+.paling-atas {
+    padding: 2% 1%;
+    color: #24644B;
+}

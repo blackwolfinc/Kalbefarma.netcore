@@ -1,0 +1,394 @@
+﻿
+
+
+
+@{
+    ViewData["Title"] = "RiskOP";
+    Layout = "~/Views/Shared/_MenuUtama.cshtml";
+
+}
+
+@model kalbe_farma_tampilan.ViewsModels.DocumentViewModels
+
+
+<link rel="stylesheet" href="~/css/opRisk.css">
+<div class="paling-atas"><h1>Operational Risk Form</h1></div>
+<div class="card">
+
+
+    <div class="btn-wraper-oprisk">
+        <a class="btn btn-danger btn-round" asp-area="" asp-controller="Home" asp-action="HomePage">Back</a>
+        <button class="btn btn-warning btn-round">Export</button>
+    </div>
+
+
+
+</div>
+
+
+<div class="card">
+    <div class="card-header">
+        <h5>Operational Risk Register Document</h5>
+    </div>
+    <div class="card-body">
+        <div class="container">
+            <div class="btn-wraper-oprisk-form">
+                <div class="form isian-inputan">
+                    <span>RR Doc. No.</span>
+                    <input class="form-control form-risk" type="text" name="name" value="" disabled placeholder="automatic Number input" />
+
+
+                    <span>Main/Supportive Process</span>
+                    <button type="button" class="form-control" data-toggle="modal" data-target="#exampleModalCenter">
+                    </button>
+                        <span>Core Process</span>
+
+                        @Html.TextBoxFor(m => m.tb_document.core_proccess, new { Id = "core_proccess", @username = "form-control", @class = "form-control form-risk" })
+                        <span>Process</span>
+                        @Html.TextBoxFor(m => m.tb_document.main_proccess, new { Id = "main_proccess", @username = "form-control", @class = "form-control form-risk" })
+
+                 
+
+                    <span>LOB</span>
+
+                    @Html.TextBoxFor(m => m.tb_document.lob, new { Id = "lob", @username = "form-control", @class = "form-control form-risk" })
+
+                    <button class="btn btn-success">Submit Form</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content npm ">
+            <div class="modal-header ">
+
+                <div class="modal-body">
+                    <div class="card">
+                        <div class="card-header  colapsebutton">
+                            <h4>Pick Category</h4>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <div class="control-label">Toggle switches</div>
+                                <div class="custom-switches-stacked mt-2">
+                                    <label class="custom-switch">
+                                        <input type="radio" name="option" value="1" class="custom-switch-input" checked>
+                                        <span class="custom-switch-indicator"></span>
+                                        <span class="custom-switch-description">Option 1</span>
+                                    </label>
+                                    <label class="custom-switch">
+                                        <input type="radio" name="option" value="2" class="custom-switch-input">
+                                        <span class="custom-switch-indicator"></span>
+                                        <span class="custom-switch-description">Option 2</span>
+                                    </label>
+                                    <label class="custom-switch">
+                                        <input type="radio" name="option" value="3" class="custom-switch-input">
+                                        <span class="custom-switch-indicator"></span>
+                                        <span class="custom-switch-description">Option 3</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Save changes</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+
+<div class="modal fade" id="exampleModalCenter2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content npm ">
+            <div class="modal-header">
+                
+               
+            </div>
+            <div class="modal-body">
+                <div class="card">
+                    <div class="card-header colapsebutton">
+                        <h4>List Proces Input</h4>
+                      
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                            
+                    </div>
+                    <div class="card-body">
+                        <div class="btn-wraper-oprisk-form">
+                            <div class="form isian-inputan">
+                                <span>RR Doc. No.</span>
+                                <input class="form-control form-risk" type="text" name="name" value="" disabled placeholder="automatic Number input" />
+
+
+                                <span>Main/Supportive Process</span>
+                                <div class="form-group">
+                                
+                                    <select class="form-control select2" multiple="">
+                                        <option>Option 1</option>
+                                        <option>Option 2</option>
+                                        <option>Option 3</option>
+                                        <option>Option 4</option>
+                                        <option>Option 5</option>
+                                        <option>Option 6</option>
+                                    </select>
+                                </div>
+                                <span>Core Process</span>
+
+                                @Html.TextBoxFor(m => m.tb_document.core_proccess, new { Id = "core_proccess", @username = "form-control", @class = "form-control form-risk" })
+                                <span>Process</span>
+                                @Html.TextBoxFor(m => m.tb_document.main_proccess, new { Id = "main_proccess", @username = "form-control", @class = "form-control form-risk" })
+
+
+
+                                <span>LOB</span>
+
+                                @Html.TextBoxFor(m => m.tb_document.lob, new { Id = "lob", @username = "form-control", @class = "form-control form-risk" })
+
+                         
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        <button class="btn btn-success">Submit Form</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+    <div class="card">
+        <div id="accordion">
+            <div class="card">
+                <div class="card-header" id="headingOne">
+                    <h4>List Process</h4>
+                    <h3 class="mb-0">
+                        <button type="button" class="btn btn-outline-light" data-toggle="modal" data-target="#exampleModalCenter2">
+                            <span> Tambah List Proses</span>
+                            </button>
+                    </h3>
+                </div>
+
+                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                    <div class="card-body">
+
+                        <div class="col-12 col-md-12 col-lg-12">
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered table-md">
+                                            <tr>
+                                                <th>No</th>
+                                                <th>Proses</th>
+                                                <th>Objective</th>
+                                                <th>Entity Reference</th>
+                                                <th>Document Reference</th>
+                                                <th>Action</th>
+                                            </tr>
+                                            @foreach (var doc in Model.DocumentList)
+                                            {
+
+
+
+
+                                        <tr>
+                                            <td>@doc.no_doc </td>
+                                            <td>@doc.main_proccess</td>
+                                            <td>@doc.proccess</td>
+                                            <td>@doc.lob</td>
+                                            <td>N/A</td>
+                                            <td><button class="btn btn-warning"><span>@Html.ActionLink("Edit", "Edit", new { id = doc.no_doc })</span></button>  <button class="btn btn-danger"> @Html.ActionLink("Delete", "Edit", new { id = doc.no_doc , @class= "text-white" })</button></td>
+                                        </tr>
+                                            }
+
+
+
+
+
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-header colapsebutton">
+            <h5>  Detail Risk Register Document</h5>
+            <a class="btn btn-outline-white" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                <span class="far fa-arrow-alt-circle-down"></span>
+            </a>
+        </div>
+        <div class="card-body">
+            <div class="collapse" id="collapseExample">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="card">
+                            <div class="card-header">
+                                <h4>Advanced Table</h4>
+                                <div class="card-header-form">
+                                    <form>
+                                        <div class="input-group">
+                                            <input type="text" class="form-control" placeholder="Search">
+                                            <div class="input-group-btn">
+                                                <button class="btn btn-primary"><i class="fas fa-search"></i></button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="card-body p-0">
+                                <div class="table-responsive">
+                                    <table class="table table-striped">
+                                        <tr>
+                                            <th>
+                                                <div class="custom-checkbox custom-control">
+                                                    <input type="checkbox" data-checkboxes="mygroup" data-checkbox-role="dad" class="custom-control-input" id="checkbox-all">
+                                                    <label for="checkbox-all" class="custom-control-label">&nbsp;</label>
+                                                </div>
+                                            </th>
+                                            <th>Task Name</th>
+                                            <th>Progress</th>
+                                            <th>Members</th>
+                                            <th>Due Date</th>
+                                            <th>Status</th>
+                                            <th>Action</th>
+                                        </tr>
+                                        <tr>
+                                            <td class="p-0 text-center">
+                                                <div class="custom-checkbox custom-control">
+                                                    <input type="checkbox" data-checkboxes="mygroup" class="custom-control-input" id="checkbox-1">
+                                                    <label for="checkbox-1" class="custom-control-label">&nbsp;</label>
+                                                </div>
+                                            </td>
+                                            <td>Create a mobile app</td>
+                                            <td class="align-middle">
+                                                <div class="progress" data-height="4" data-toggle="tooltip" title="100%">
+                                                    <div class="progress-bar bg-success" data-width="100"></div>
+                                                </div>
+                                            </td>
+                                            <td>
+                                                <img alt="image" src="../assets/img/avatar/avatar-5.png" class="rounded-circle" width="35" data-toggle="tooltip" title="Wildan Ahdian">
+                                            </td>
+                                            <td>2018-01-20</td>
+                                            <td><div class="badge badge-success">Completed</div></td>
+                                            <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="p-0 text-center">
+                                                <div class="custom-checkbox custom-control">
+                                                    <input type="checkbox" data-checkboxes="mygroup" class="custom-control-input" id="checkbox-2">
+                                                    <label for="checkbox-2" class="custom-control-label">&nbsp;</label>
+                                                </div>
+                                            </td>
+                                            <td>Redesign homepage</td>
+                                            <td class="align-middle">
+                                                <div class="progress" data-height="4" data-toggle="tooltip" title="0%">
+                                                    <div class="progress-bar" data-width="0"></div>
+                                                </div>
+                                            </td>
+                                            <td>
+                                                <img alt="image" src="../assets/img/avatar/avatar-1.png" class="rounded-circle" width="35" data-toggle="tooltip" title="Nur Alpiana">
+                                                <img alt="image" src="../assets/img/avatar/avatar-3.png" class="rounded-circle" width="35" data-toggle="tooltip" title="Hariono Yusup">
+                                                <img alt="image" src="../assets/img/avatar/avatar-4.png" class="rounded-circle" width="35" data-toggle="tooltip" title="Bagus Dwi Cahya">
+                                            </td>
+                                            <td>2018-04-10</td>
+                                            <td><div class="badge badge-info">Todo</div></td>
+                                            <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="p-0 text-center">
+                                                <div class="custom-checkbox custom-control">
+                                                    <input type="checkbox" data-checkboxes="mygroup" class="custom-control-input" id="checkbox-3">
+                                                    <label for="checkbox-3" class="custom-control-label">&nbsp;</label>
+                                                </div>
+                                            </td>
+                                            <td>Backup database</td>
+                                            <td class="align-middle">
+                                                <div class="progress" data-height="4" data-toggle="tooltip" title="70%">
+                                                    <div class="progress-bar bg-warning" data-width="70"></div>
+                                                </div>
+                                            </td>
+                                            <td>
+                                                <img alt="image" src="../assets/img/avatar/avatar-1.png" class="rounded-circle" width="35" data-toggle="tooltip" title="Rizal Fakhri">
+                                                <img alt="image" src="../assets/img/avatar/avatar-2.png" class="rounded-circle" width="35" data-toggle="tooltip" title="Hasan Basri">
+                                            </td>
+                                            <td>2018-01-29</td>
+                                            <td><div class="badge badge-warning">In Progress</div></td>
+                                            <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="p-0 text-center">
+                                                <div class="custom-checkbox custom-control">
+                                                    <input type="checkbox" data-checkboxes="mygroup" class="custom-control-input" id="checkbox-4">
+                                                    <label for="checkbox-4" class="custom-control-label">&nbsp;</label>
+                                                </div>
+                                            </td>
+                                            <td>Input data</td>
+                                            <td class="align-middle">
+                                                <div class="progress" data-height="4" data-toggle="tooltip" title="100%">
+                                                    <div class="progress-bar bg-success" data-width="100"></div>
+                                                </div>
+                                            </td>
+                                            <td>
+                                                <img alt="image" src="../assets/img/avatar/avatar-2.png" class="rounded-circle" width="35" data-toggle="tooltip" title="Rizal Fakhri">
+                                                <img alt="image" src="../assets/img/avatar/avatar-5.png" class="rounded-circle" width="35" data-toggle="tooltip" title="Isnap Kiswandi">
+                                                <img alt="image" src="../assets/img/avatar/avatar-4.png" class="rounded-circle" width="35" data-toggle="tooltip" title="Yudi Nawawi">
+                                                <img alt="image" src="../assets/img/avatar/avatar-1.png" class="rounded-circle" width="35" data-toggle="tooltip" title="Khaerul Anwar">
+                                            </td>
+                                            <td>2018-01-16</td>
+                                            <td><div class="badge badge-success">Completed</div></td>
+                                            <td><a href="#" class="btn btn-secondary">Detail</a></td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <link rel="stylesheet" type="text/css" href="DataTables/datatables.min.css" />
+    <script rel="stylesheet" href="~/js/opRisk.js">
+
+        $('#myTable').DataTable({
+            ajax: '/api/staff',
+            dom: 'Bfrtip',
+            columns: [
+                { data: 'first_name' },
+                { data: 'last_name' },
+                // etc
+            ],
+            select: true,
+            buttons: [
+                { extend: 'create', editor: editor },
+                { extend: 'edit', editor: editor },
+                { extend: 'remove', editor: editor }
+            ]
+        });
+        <script type="text/javascript" src="DataTables/datatables.min.js"></script>

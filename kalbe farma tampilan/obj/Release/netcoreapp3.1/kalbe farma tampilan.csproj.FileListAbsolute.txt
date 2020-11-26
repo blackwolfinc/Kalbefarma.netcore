@@ -1,0 +1,116 @@
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\libman.json
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\kalbe farma tampilan.exe
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\kalbe farma tampilan.deps.json
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\kalbe farma tampilan.runtimeconfig.json
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\kalbe farma tampilan.runtimeconfig.dev.json
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\kalbe farma tampilan.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\kalbe farma tampilan.pdb
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\kalbe farma tampilan.Views.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\kalbe farma tampilan.Views.pdb
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\DataTables-Editor-Server.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.AssemblyInfoInputs.cache
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.AssemblyInfo.cs
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.csproj.CoreCompileInputs.cache
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.RazorAssemblyInfo.cache
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.RazorAssemblyInfo.cs
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\staticwebassets\kalbe farma tampilan.StaticWebAssets.Manifest.cache
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\staticwebassets\kalbe farma tampilan.StaticWebAssets.xml
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\scopedcss\bundle\kalbe farma tampilan.styles.css
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.TagHelpers.input.cache
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.TagHelpers.output.cache
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.RazorCoreGenerate.cache
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\Razor\Views\Home\HomePage.cshtml.g.cs
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\Razor\Views\Home\RiskOp.cshtml.g.cs
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\Razor\Views\Shared\_FristPage.cshtml.g.cs
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\Razor\Views\Shared\_MenuUtama.cshtml.g.cs
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.RazorTargetAssemblyInfo.cache
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.RazorTargetAssemblyInfo.cs
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.Views.pdb
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.csproj.CopyComplete
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.dll
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.pdb
+C:\Users\bagas\source\repos\kalbe farma tampilan\kalbe farma tampilan\obj\Release\netcoreapp3.1\kalbe farma tampilan.genruntimeconfig.cache

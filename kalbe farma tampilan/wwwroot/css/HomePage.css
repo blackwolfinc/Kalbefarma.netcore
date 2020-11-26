@@ -1,0 +1,9 @@
+﻿body {
+    background: rgb(197,231,218);
+    background: linear-gradient(189deg, rgba(197,231,218,1) 49%, rgba(255,255,255,1) 100%);
+}
+
+
+.home-header {
+    margin-top: 10%;
+}
